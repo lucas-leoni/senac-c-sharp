@@ -1,0 +1,15 @@
+C:\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.exe
+C:\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.deps.json
+C:\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.runtimeconfig.json
+C:\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.dll
+C:\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.pdb
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.csproj.AssemblyReference.cache
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.GeneratedMSBuildEditorConfig.editorconfig
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.AssemblyInfoInputs.cache
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.AssemblyInfo.cs
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.csproj.CoreCompileInputs.cache
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.dll
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\refint\mvc-completo.dll
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.pdb
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.genruntimeconfig.cache
+C:\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\ref\mvc-completo.dll

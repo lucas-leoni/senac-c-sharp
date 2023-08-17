@@ -1,0 +1,15 @@
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.exe
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.deps.json
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.runtimeconfig.json
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.dll
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\bin\Debug\net7.0\mvc-completo.pdb
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.csproj.AssemblyReference.cache
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.AssemblyInfoInputs.cache
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.AssemblyInfo.cs
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.dll
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\refint\mvc-completo.dll
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.pdb
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\mvc-completo.genruntimeconfig.cache
+C:\Users\lucas.leoni\jovem-programador\c-sharp\mvc-completo\obj\Debug\net7.0\ref\mvc-completo.dll

@@ -1,0 +1,15 @@
+C:\Users\lucas.leoni\CSharp\inseto\bin\Debug\net7.0\inseto.exe
+C:\Users\lucas.leoni\CSharp\inseto\bin\Debug\net7.0\inseto.deps.json
+C:\Users\lucas.leoni\CSharp\inseto\bin\Debug\net7.0\inseto.runtimeconfig.json
+C:\Users\lucas.leoni\CSharp\inseto\bin\Debug\net7.0\inseto.dll
+C:\Users\lucas.leoni\CSharp\inseto\bin\Debug\net7.0\inseto.pdb
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.csproj.AssemblyReference.cache
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.AssemblyInfoInputs.cache
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.AssemblyInfo.cs
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.csproj.CoreCompileInputs.cache
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.dll
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\refint\inseto.dll
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.pdb
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\inseto.genruntimeconfig.cache
+C:\Users\lucas.leoni\CSharp\inseto\obj\Debug\net7.0\ref\inseto.dll
